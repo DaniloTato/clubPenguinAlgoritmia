@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Fun Stuff",
+    "description": "Submit your artwork, get new desktop wallpapers, coloring pages and the latest comics.",
+    "image": "src/assets/art.png"
+  },
+  {
+    "title": "Membership",
+    "description": "Learn about the features and benefits of becoming a member of Club Penguin.",
+    "image": "src/assets/membership.png"
+  },
+  {
+    "title": "Online Shop",
+    "description": "Take Club Penguin with you. Check out the shop to see the latest in penguin gear.",
+    "image": "src/assets/games.png"
+  },
+  {
+    "title": "Help & Support",
+    "description": "Find answers to the most frequent questions about Club Penguin. Updated weekly.",
+    "image": "src/assets/teacher.png"
+  },
+  {
+    "title": "Parents",
+    "description": "Learn more about Club Penguin in this section designed for parents of penguins.",
+    "image": "src/assets/parenting.png"
+  }
+]

@@ -1,0 +1,15 @@
+:root {
+  --cp-blue-light: #00adee;
+  --cp-blue-dark: #005f8d;
+  --cp-yellow: #fbba28;
+  --header-blue: #02569e;
+  --background-blue: #0186b1;
+  --light-background-blue: #03a0c3;
+}
+
+body {
+  margin: 0;
+  background-color: var(--background-blue);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding-top: 84px;
+}

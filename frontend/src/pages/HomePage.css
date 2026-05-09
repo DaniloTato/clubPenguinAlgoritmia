@@ -1,0 +1,59 @@
+.penguin-container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+/* Hero Section */
+.hero-section {
+  padding: 0px 20px 10px 20px;
+  background: #14a6d9;
+}
+
+.island-container {
+  height: 420px;
+  overflow: hidden;
+  border-radius: 18px;
+  border: 4px solid #005f8d;
+  position: relative;
+}
+
+.hero-image {
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+
+  display: block;
+}
+
+/* ONLINE COUNTER */
+.online-counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  gap: 10px;
+
+  margin: 12px auto 0 auto;
+  padding: 10px 22px;
+
+  background: var(--header-blue);
+
+  border-radius: 999px;
+}
+
+.online-label {
+  color: white;
+
+  font-size: 0.95rem;
+  font-weight: 700;
+
+  letter-spacing: 0.4px;
+}
+
+.online-number {
+  color: var(--cp-yellow);
+
+  font-size: 1.1rem;
+  font-weight: 900;
+}
