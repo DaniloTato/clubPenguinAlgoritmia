@@ -61,8 +61,6 @@ export const Home: React.FC = (): ReactElement => {
     return () => clearInterval(interval);
   }, []);
 
-  () => {};
-
   // ======================================================
   // UI RENDER
   // ======================================================
